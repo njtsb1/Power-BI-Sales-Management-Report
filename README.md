@@ -1,8 +1,8 @@
-# Daily learning
+Daily learning
 
-[Screenshot](Img/banner-art-pbi.png)
+![Screenshot](Img/banner-art-pbi.png)
 
-## Project Challenge: Creating a Sales Management Report with Power BI
+# Project Challenge: Creating a Sales Management Report with Power BI
 
 Project developed at the Santander Bootcamp 2023 - Data Science with Python, under the guidance of specialist [Juliana Zanelatto](https://github.com/julianazanelatto/ "Juliana Zanelatto").
 Creating a Sales Management Report in Power BI Desktop based on the sample financials data from Power BI provided by Microsoft.
