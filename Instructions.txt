@@ -1,0 +1,40 @@
+Creating a Sales Management Report with Power BI
+
+
+Challenge Submission Instructions
+
+
+Challenge description: You will create a more elaborate report based on the sample financials data from Power BI.
+
+
+Pay attention to:
+
+- Defined structure
+
+- Navigation buttons that provide navigability
+
+- Segmenters used and buttons with associated images
+
+- Use indicators and buttons to select different visuals on the same subject
+
+
+Creating the elements that make up the first page of the report:
+
+- Objects that define the report layout
+
+- Charts (visuals) and the fields that compose them
+
+- Buttons for navigation
+
+- Data segmenters
+
+
+Remember to:
+
+- Create the second page of the report
+
+- Publish your report on Power BI Service
+
+- If you are familiar with it, feel free to use other features in the buttons and other elements
+
+- Upload your project to GitHub
